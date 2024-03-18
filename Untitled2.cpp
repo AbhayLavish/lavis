@@ -13,6 +13,19 @@ for (i=0;i<n;i++)
 
 }
 getch();
+
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    
+  </head>
+  <body>
+    
+      <h1 class="title">Hello Hashim! </h1>
+      
+  </body>
+</html>
 }
 int fib(int i)
 {  
